@@ -13,6 +13,9 @@ const Navbar = () => {
                         <Link to="/about" className="hover:text-blue-400">About</Link>
                     </li>
                     <li>
+                        <Link to="/explore" className="hover:text-blue-400">Explore</Link>
+                    </li>
+                    <li>
                         <Link to="/contact" className="hover:text-blue-400">Contact</Link>
                     </li>
                 </ul>
