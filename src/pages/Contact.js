@@ -13,7 +13,7 @@ const Contact = () => {
             <section className="bg-blue-500 text-white py-20 w-full">
                 <h2 className="text-3xl font-bold mb-4">Our Contact Information</h2>
                 <p className="text-lg mb-2">Email: support@nftmarketplace.com</p>
-                <p className="text-lg mb-2">Phone: +123 456 7890</p>
+                <p className="text-lg mb-2">Phone: +254 7960 0040 50</p>
                 <p className="text-lg">Address: 123 NFT Street, Digital City, Web 3.0</p>
             </section>
 
@@ -63,16 +63,16 @@ const Contact = () => {
                         digital art marketplace experience.
                     </p>
                     <div className="flex justify-center space-x-8 mb-6">
-                        <a href="#" className="text-lg hover:text-gray-400">About Us</a>
-                        <a href="#" className="text-lg hover:text-gray-400">Contact</a>
+                        <a href="/about" className="text-lg hover:text-gray-400">About Us</a>
+                        <a href="/contact" className="text-lg hover:text-gray-400">Contact</a>
                         <a href="#" className="text-lg hover:text-gray-400">Privacy Policy</a>
                         <a href="#" className="text-lg hover:text-gray-400">Terms of Service</a>
                     </div>
                     <div className="flex justify-center space-x-6 mb-6">
-                        <a href="#" className="text-lg hover:text-gray-400">Facebook</a>
-                        <a href="#" className="text-lg hover:text-gray-400">Twitter</a>
-                        <a href="#" className="text-lg hover:text-gray-400">Instagram</a>
-                        <a href="#" className="text-lg hover:text-gray-400">LinkedIn</a>
+                        <a href="https://x.com/techgetafrica" className="text-lg hover:text-gray-400">Facebook</a>
+                        <a href="https://x.com/techgetafrica" className="text-lg hover:text-gray-400">Twitter</a>
+                        <a href="https://x.com/techgetafrica" className="text-lg hover:text-gray-400">Instagram</a>
+                        <a href="https://x.com/techgetafrica" className="text-lg hover:text-gray-400">LinkedIn</a>
                     </div>
                     <div className="border-t border-gray-700 pt-6 mt-6">
                         <p className="text-sm text-gray-400">&copy; 2024 Techgetafrica. All rights reserved.</p>
